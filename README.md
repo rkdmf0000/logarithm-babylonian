@@ -1,4 +1,4 @@
-# pow-babylonian
+# logarithm-babylonian
 바발로니안 방식 제곱근 코드
 
 `x = ( x + ( x / input ) ) / 2`
